@@ -24,10 +24,4 @@ Models
     - Email
     - Password
 
-Post
 
-Get
-
-Delete
-
-Put
